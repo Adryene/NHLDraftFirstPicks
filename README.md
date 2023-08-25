@@ -17,16 +17,16 @@ Every part of this project is customizable and allows you to do the following:
 
 ## Installation
 1. Install Python and pip
-  * Download the latest version from [https://www.python.org/downloads/](https://www.python.org/downloads/)
+    * Download the latest version from [https://www.python.org/downloads/](https://www.python.org/downloads/)
 2. Install Jupyter Lab
-  * pip install jupyterlab
+    * pip install jupyterlab
 3. Install Pandas
-  * pip install pandas
-4 . Install Matplotlib
+    * pip install pandas
+4. Install Matplotlib
     * pip install matplotlib
 5. Clone the repo
-  * git clone https://github.com/Adryene/NHLDraftFirstPicks.git
+    * git clone https://github.com/Adryene/NHLDraftFirstPicks.git
 6. Navigate to project directory
-  * cd NHLDraftFirstPicks
+    * cd NHLDraftFirstPicks
 7. Launch Jupyter Lab
-  * jupyter lab
+    * jupyter lab
