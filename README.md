@@ -13,6 +13,7 @@ Every part of this project is customizable and allows you to do the following:
   * Jupyter Lab
   * Pandas
   * Git
+  * Matplotlib
 
 ## Installation
 1. Install Python and pip
