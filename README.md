@@ -1,4 +1,4 @@
-# NHLDraftFirstPicks Data Analysis Project made with Python and JupyterLab
+# NHL Data Analysis Project made with Python and JupyterLab
 
 ## NHL Draft First Picks Analysis Project for 1963 - 2023 (Will update yearly). [Source](https://records.nhl.com/draft/no.-1-overall-picks)
 
