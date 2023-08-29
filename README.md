@@ -3,9 +3,15 @@
 ## NHL Draft First Picks Analysis Project for 1963 - 2023 (Will update yearly). [Source](https://records.nhl.com/draft/no.-1-overall-picks)
 
 This project is a data analysis that covers the NHL Draft First Picks data from 1963 to 2023 using Python, Pandas and JupyterLab. 
+## Summary 
+  * More than 70% of NHL First Picks are Canadian [![nhll.png](https://i.postimg.cc/rph2W0mn/nhll.png)](https://postimg.cc/VSbhPNXn)
+  * More than 40% NHL First Picks are Centers [![center.png](https://i.postimg.cc/cJWfYCjn/center.png)](https://postimg.cc/CRvZphwh)
+  * The Average Height of NHL First Picks is 6'1 [![nico.jpg](https://i.postimg.cc/QMVKc7mV/nico.jpg)](https://postimg.cc/bGcvhsKj)
+  * The Average Weight of NHL First Picks is 200 Lbs [![crosby.jpg](https://i.postimg.cc/sfJfDXPL/crosby.jpg)](https://postimg.cc/yWkCL7bh)
+
 Every part of this project is customizable and allows you to do the following:
 
-* Customize code to change data visualizations using matplotlib
+* Customize code to change data visualizations using Matplotlib
 * Customizable embedded images using markdown
   
 ## Prerequisites
